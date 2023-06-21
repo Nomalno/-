@@ -1,1 +1,1 @@
-# Task[КурсоваяРаботаthx.docx](https://github.com/Nomalno/Task/files/11826834/thx.docx)
+[КурсоваяРаботаthx.docx](https://github.com/Nomalno/Task/files/11826834/thx.docx)
