@@ -1,0 +1,15 @@
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.csproj.AssemblyReference.cache
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.GeneratedMSBuildEditorConfig.editorconfig
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.AssemblyInfoInputs.cache
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.AssemblyInfo.cs
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.csproj.CoreCompileInputs.cache
+E:\smth\kursa4\kursa4\bin\Debug\net7.0\kursa4.exe
+E:\smth\kursa4\kursa4\bin\Debug\net7.0\kursa4.deps.json
+E:\smth\kursa4\kursa4\bin\Debug\net7.0\kursa4.runtimeconfig.json
+E:\smth\kursa4\kursa4\bin\Debug\net7.0\kursa4.dll
+E:\smth\kursa4\kursa4\bin\Debug\net7.0\kursa4.pdb
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.dll
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\refint\kursa4.dll
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.pdb
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\kursa4.genruntimeconfig.cache
+E:\smth\kursa4\kursa4\obj\Debug\net7.0\ref\kursa4.dll
